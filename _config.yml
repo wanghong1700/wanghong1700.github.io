@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hong Wang(王泓)"
+title                    : "Hong Wang 王泓"
 title_separator          : "-"
 name                     : &name "Hong Wang"
 description              : &description "personal description"
