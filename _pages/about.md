@@ -19,10 +19,10 @@ Education
 [School of Gifted Young](https://sgy.ustc.edu.cn/), [USTC](https://www.ustc.edu.cn/), Anhui, China, 2017-2021<br>
 - M.S, Computational Mathematics<br>
 [School of Mathematical Sciences](https://math.ustc.edu.cn/main.htm), [USTC](https://www.ustc.edu.cn/), Anhui, China, 2021-2023<br>
-My supervisor: [Kuan Xu](http://staff.ustc.edu.cn/~kuanxu/index.html)<br>
+My supervisor: Prof.[Kuan Xu](http://staff.ustc.edu.cn/~kuanxu/index.html)<br>
 - Ph.D read, Electronic and Information Engineering<br>
 [School of Information Science and Technology](https://sist.ustc.edu.cn/main.htm), [USTC](https://www.ustc.edu.cn/), Anhui, China, 2023-<br>
-My supervisor: [Jie Wang](https://miralab.ai/people/jie-wang/)<br>
+My supervisor: Prof.[Jie Wang](https://miralab.ai/people/jie-wang/)<br>
 
 News
 ------
