@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hong Wang"
   avatar           : "profile.png"
-  bio              : "PhD student at USTC, interested in Scientific computing, Machine Learning, AI for Science, LLM, RL"
-  location         : "Anhui China"
+  bio              : "Ph.D. student at USTC working on AI for scientific computing, matrix computation acceleration, and large language models"
+  location         : "Hefei, Anhui, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AKzYXQ2abBiXebNWMP-oowA3TyFC6XbRzr5JxiDAqOjhcWd4ztenP-w_xaHVf0TRHo21hhxAh5VM8U2Bj_eI5SJGHkfgqyMM__YcWPKqEDHBagYz4AGRQHAURXgfvS79Veo&user=K1eFuwwAAAAJ"
   email            : "wanghong1700@mail.ustc.edu.cn" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
