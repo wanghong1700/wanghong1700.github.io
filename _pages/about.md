@@ -49,7 +49,7 @@ Internship and Projects
 
 - **Huawei Project: Fast Similar Matrix Computation via Low-Rank Decomposition**  
   Huawei contract No. `TC20211015677`, September 2021 - June 2022.<br>
-  Led the full research pipeline from literature review and algorithm design to theory, experiments, and reporting, and developed accelerated matrix algorithms with \(1.2 \times\)–\(20 \times\) speedups in real scenarios.
+  Led the full research pipeline from literature review and algorithm design to theory, experiments, and reporting, and developed accelerated matrix algorithms with 1.2×–20× speedups in real scenarios.
 
 Awards
 ------
@@ -70,8 +70,6 @@ Professional Services and Mentoring
 Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AKzYXQ2abBiXebNWMP-oowA3TyFC6XbRzr5JxiDAqOjhcWd4ztenP-w_xaHVf0TRHo21hhxAh5VM8U2Bj_eI5SJGHkfgqyMM__YcWPKqEDHBagYz4AGRQHAURXgfvS79Veo&user=K1eFuwwAAAAJ))
 ------
 
-*`*` equal contribution, `†` corresponding author.*
-
 ### Large Language Models and Reinforcement Learning
 
 - **[Scheduling Your LLM Reinforcement Learning with Reasoning Trees](https://arxiv.org/abs/2510.24832)**  
@@ -81,45 +79,52 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
 
 - **[Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective](https://arxiv.org/abs/2510.10150)**  
   Authors: Zhezheng Hao*, **Hong Wang***, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen.  
-  *ACL 2026 Oral*, co-first author, Tencent internship work.  
+  *ACL 2026 Oral*, Tencent internship work.  
   [[arXiv]](https://arxiv.org/abs/2510.10150) [[code]](https://github.com/zz-haooo/STEER)
 
 - **[Exploiting Edited Large Language Models as General Scientific Optimizers](https://arxiv.org/abs/2503.09620)**  
   Authors: Qitan Lv, Tianyu Liu, **Hong Wang**†.  
-  *NAACL 2025*, corresponding author.  
+  *NAACL 2025*.  
   [[arXiv]](https://arxiv.org/abs/2503.09620)
 
-- **ReCreate: Reasoning and Creating Domain Agents Driven by Experience**  
-  *ACL 2026*, second author, Tencent internship work.
+- **[ReCreate: Reasoning and Creating Domain Agents Driven by Experience](https://arxiv.org/abs/2601.11100)**  
+  Authors: Zhezheng Hao, **Hong Wang**, Jian Luo, Jianqing Zhang, Yuyan Zhou, Qiang Lin, Can Wang, Hande Dong, Jiawei Chen.  
+  *ACL 2026*, second author, Tencent internship work.  
+  [[arXiv]](https://arxiv.org/abs/2601.11100)
 
 - **[Perturbation-Restrained Sequential Model Editing](https://arxiv.org/abs/2405.16821)**  
   Authors: Jun-Yu Ma, **Hong Wang**, Hao-Xiang Xu, Zhen-Hua Ling, Jia-Chen Gu.  
   *ICLR 2025*, second author.  
   [[arXiv]](https://arxiv.org/abs/2405.16821)
 
-- **Energy-Regularized Sequential Model Editing on Hyperspheres**  
-  *ICLR 2026*, fourth author.
+- **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172)**  
+  Authors: Qingyuan Liu, Jia-Chen Gu, Yunzhi Yao, **Hong Wang**, Nanyun Peng.  
+  *ICLR 2026*, fourth author.  
+  [[arXiv]](https://arxiv.org/abs/2510.01172) [[code]](https://github.com/PlusLabNLP/SPHERE)
 
 - **Plug-and-Play Data Module for Code RL: Adaptive Ambiguity Replay**  
   *ACL 2026 Findings*, fourth author, Tencent internship work.
 
-- **[GAPO: Group Adaptive Policy Optimization for Real-World Code Edit](https://arxiv.org/abs/2510.21830)**  
+- **[GAPO: Robust Advantage Estimation for Real-World Code LLMs](https://arxiv.org/abs/2510.21830)**  
+  Authors: Jianqing Zhang, Zhezheng Hao, Wei Xia, Hande Dong, **Hong Wang**, Chenxing Wei, Yuyan Zhou, Yubin Qi, Qiang Lin, Jian Cao.  
   *ACL 2026 Findings*, fifth author, Tencent internship work.  
   [[arXiv]](https://arxiv.org/abs/2510.21830) [[code]](https://github.com/TsingZ0/verl-GAPO)
 
-- **LEPO: Latent Reasoning Policy Optimization for Large Language Models**  
-  *ACL 2026 Findings*, fifth author, Tencent internship work.
+- **[LEPO: Latent Reasoning Policy Optimization for Large Language Models](https://arxiv.org/abs/2604.17892)**  
+  Authors: Yuyan Zhou, Jiarui Yu, Hande Dong, Zhezheng Hao, **Hong Wang**, Jianqing Zhang, Qiang Lin.  
+  *ACL 2026 Findings*, fifth author, Tencent internship work.  
+  [[arXiv]](https://arxiv.org/abs/2604.17892)
 
 ### AI for Scientific Computing
 
 - **[Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling](/publications/2024-02-01-Krylov-Subspace-Recycling)**  
   Authors: **Hong Wang***, Zhongkai Hao*, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu.  
-  *ICLR 2024 Spotlight*, co-first author.  
+  *ICLR 2024 Spotlight*.  
   [[arXiv]](https://arxiv.org/abs/2401.09516)
 
 - **[Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training](/publications/2025-10-01-MoEPOT)**  
   Authors: **Hong Wang***, Haiyang Xin*, Jie Wang, Xuanze Yang, Fei Zha, Huanshuo Dong, Yan Jiang.  
-  *NeurIPS 2025*, co-first author.  
+  *NeurIPS 2025*.  
   [[arXiv]](https://arxiv.org/abs/2510.25803) [[code]](https://github.com/haiyangxin/MoEPOT)
 
 - **[SymMaP: Improving Computational Efficiency in Linear Solvers through Symbolic Preconditioning](/publications/2025-10-02-SymMaP)**  
@@ -129,22 +134,27 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
 
 - **[STNet: Spectral Transformation Network for Solving Operator Eigenvalue Problem](/publications/2025-10-03-STNet)**  
   Authors: **Hong Wang***, Jiang Yixuan*, Jie Wang, Xinyi Li, Jian Luo, Huanshuo Dong.  
-  *NeurIPS 2025*, co-first author.  
+  *NeurIPS 2025*.  
   [[arXiv]](https://arxiv.org/abs/2510.23986) [[code]](https://github.com/j1y1x/STNet)
 
 - **[Accelerating Eigenvalue Dataset Generation via Chebyshev Subspace Filter](https://arxiv.org/abs/2510.23215)**  
+  Authors: **Hong Wang**, Jie Wang, Jian Luo, Huanshuo Dong, Yeqiu Chen, Runmin Jiang, Zhen Huang.  
   *ICLR 2026*, first author.  
   [[arXiv]](https://arxiv.org/abs/2510.23215)
 
-- **HGATSolver: A Heterogeneous Graph Attention Solver for Fluid–Structure Interaction**  
-  *AAAI 2026 Oral*, co-first author.
+- **[HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction](https://arxiv.org/abs/2601.09251)**  
+  Authors: Qin-Yi Zhang*, **Hong Wang***, Siyao Liu, Haichuan Lin, Linying Cao, Xiao-Hu Zhou, Chen Chen, Shuangyi Wang, Zeng-Guang Hou.  
+  *AAAI 2026 Oral*.  
+  [[arXiv]](https://arxiv.org/abs/2601.09251)
 
-- **Learning Neural Operators from Partial Observations via Latent Autoregressive Modeling**  
-  *AAAI 2026*, co-first author.
+- **[Learning Neural Operators from Partial Observations via Latent Autoregressive Modeling](https://arxiv.org/abs/2601.15547)**  
+  Authors: Jingren Hou*, **Hong Wang***, Pengyu Xu, Chang Gao, Huafeng Liu, Liping Jing.  
+  *AAAI 2026*.  
+  [[arXiv]](https://arxiv.org/abs/2601.15547)
 
 - **[Self-Attention to Operator Learning-based 3D-IC Thermal Simulation](/publications/2025-10-04-DAC-3D-IC)**  
   Authors: Zhen Huang*, **Hong Wang***, Wenkai Yang, Muxi Tang, Depeng Xie, Ting-Jung Lin, Yu Zhang, Wei W. Xing, Lei He.  
-  *DAC 2025*, co-first author.  
+  *DAC 2025*.  
   [[arXiv]](https://arxiv.org/abs/2510.15968)
 
 - **[Accelerating PDE Data Generation via Differential Operator Action in Solution Space](/publications/2024-03-01-Differential-Operator-Action)**  
@@ -153,6 +163,7 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
   [[arXiv]](https://arxiv.org/abs/2402.05957)
 
 - **[Neural Krylov Iteration for Accelerating Linear System Solving](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e88870ec82f2469b0ddf32c817920c68-Abstract-Conference.html)**  
+  Authors: Jian Luo, Jie Wang, **Hong Wang**, Huanshuo Dong, Zijie Geng, Hanzhu Chen, Yufei Kuang.  
   *NeurIPS 2024 Spotlight*, student second author.  
   [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e88870ec82f2469b0ddf32c817920c68-Abstract-Conference.html)
 
@@ -168,8 +179,10 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
   Submitted to *ICML 2026*, second author.  
   [[arXiv]](https://arxiv.org/abs/2509.23166)
 
-- **Words & Weights: Streamlining Multi-Turn Interactions via Co-Adaptation**  
-  Submitted to *ICML 2026*, second author.
+- **[Words & Weights: Streamlining Multi-Turn Interactions via Co-Adaptation](https://arxiv.org/abs/2603.01375)**  
+  Authors: Chenxing Wei, **Hong Wang**, Ying He, Zhongxiang Dai, Bo Jiang, F. Richard Yu, Yao Shu.  
+  Submitted to *ICML 2026*, second author.  
+  [[arXiv]](https://arxiv.org/abs/2603.01375)
 
 - **LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models**  
   Submitted to *ICML 2026*, third author.
