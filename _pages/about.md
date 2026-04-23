@@ -55,9 +55,7 @@ Awards
 ------
 
 - Doctorate National Scholarship, USTC<br>
-- Graduate Academic Scholarship, USTC<br>
 - Outstanding Graduate, USTC<br>
-- Outstanding Student Scholarship, USTC<br>
 - ICLR 2024 financial assistance<br>
 - NeurIPS 2025 financial assistance<br>
 
@@ -78,7 +76,7 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
   [[arXiv]](https://arxiv.org/abs/2510.24832) [[code]](https://github.com/zz-haooo/Re-Schedule)
 
 - **[Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective](https://arxiv.org/abs/2510.10150)**  
-  Authors: Zhezheng Hao<sup>*</sup>, **Hong Wang**<sup>*</sup>, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen.  
+  Authors: Zhezheng Hao<sup>&#42;</sup>, **Hong Wang**<sup>&#42;</sup>, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen.  
   *ACL 2026 Oral*, Tencent internship work.  
   [[arXiv]](https://arxiv.org/abs/2510.10150) [[code]](https://github.com/zz-haooo/STEER)
 
@@ -118,12 +116,12 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
 ### AI for Scientific Computing
 
 - **[Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling](/publications/2024-02-01-Krylov-Subspace-Recycling)**  
-  Authors: **Hong Wang**<sup>*</sup>, Zhongkai Hao<sup>*</sup>, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Zhongkai Hao<sup>&#42;</sup>, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu.  
   *ICLR 2024 Spotlight*.  
   [[arXiv]](https://arxiv.org/abs/2401.09516) [[code]](https://github.com/wanghong1700/NO-DataGen-SKR)
 
 - **[Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training](/publications/2025-10-01-MoEPOT)**  
-  Authors: **Hong Wang**<sup>*</sup>, Haiyang Xin<sup>*</sup>, Jie Wang, Xuanze Yang, Fei Zha, Huanshuo Dong, Yan Jiang.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Haiyang Xin<sup>&#42;</sup>, Jie Wang, Xuanze Yang, Fei Zha, Huanshuo Dong, Yan Jiang.  
   *NeurIPS 2025*.  
   [[arXiv]](https://arxiv.org/abs/2510.25803) [[code]](https://github.com/haiyangxin/MoEPOT)
 
@@ -133,7 +131,7 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
   [[arXiv]](https://arxiv.org/abs/2510.24170) [[code]](https://github.com/Minghaom2/SymMaP)
 
 - **[STNet: Spectral Transformation Network for Solving Operator Eigenvalue Problem](/publications/2025-10-03-STNet)**  
-  Authors: **Hong Wang**<sup>*</sup>, Jiang Yixuan<sup>*</sup>, Jie Wang, Xinyi Li, Jian Luo, Huanshuo Dong.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Jiang Yixuan<sup>&#42;</sup>, Jie Wang, Xinyi Li, Jian Luo, Huanshuo Dong.  
   *NeurIPS 2025*.  
   [[arXiv]](https://arxiv.org/abs/2510.23986) [[code]](https://github.com/j1y1x/STNet)
 
@@ -143,17 +141,17 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
   [[arXiv]](https://arxiv.org/abs/2510.23215)
 
 - **[HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction](https://arxiv.org/abs/2601.09251)**  
-  Authors: Qin-Yi Zhang<sup>*</sup>, **Hong Wang**<sup>*</sup>, Siyao Liu, Haichuan Lin, Linying Cao, Xiao-Hu Zhou, Chen Chen, Shuangyi Wang, Zeng-Guang Hou.  
+  Authors: Qin-Yi Zhang<sup>&#42;</sup>, **Hong Wang**<sup>&#42;</sup>, Siyao Liu, Haichuan Lin, Linying Cao, Xiao-Hu Zhou, Chen Chen, Shuangyi Wang, Zeng-Guang Hou.  
   *AAAI 2026 Oral*.  
   [[arXiv]](https://arxiv.org/abs/2601.09251) [[code]](https://github.com/Qin-Yi-Zhang/HGATSolver)
 
 - **[Learning Neural Operators from Partial Observations via Latent Autoregressive Modeling](https://arxiv.org/abs/2601.15547)**  
-  Authors: Jingren Hou<sup>*</sup>, **Hong Wang**<sup>*</sup>, Pengyu Xu, Chang Gao, Huafeng Liu, Liping Jing.  
+  Authors: Jingren Hou<sup>&#42;</sup>, **Hong Wang**<sup>&#42;</sup>, Pengyu Xu, Chang Gao, Huafeng Liu, Liping Jing.  
   *AAAI 2026*.  
   [[arXiv]](https://arxiv.org/abs/2601.15547)
 
 - **[Self-Attention to Operator Learning-based 3D-IC Thermal Simulation](/publications/2025-10-04-DAC-3D-IC)**  
-  Authors: Zhen Huang<sup>*</sup>, **Hong Wang**<sup>*</sup>, Wenkai Yang, Muxi Tang, Depeng Xie, Ting-Jung Lin, Yu Zhang, Wei W. Xing, Lei He.  
+  Authors: Zhen Huang<sup>&#42;</sup>, **Hong Wang**<sup>&#42;</sup>, Wenkai Yang, Muxi Tang, Depeng Xie, Ting-Jung Lin, Yu Zhang, Wei W. Xing, Lei He.  
   *DAC 2025*.  
   [[arXiv]](https://arxiv.org/abs/2510.15968)
 
@@ -187,4 +185,3 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
 - **LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models**  
   Submitted to *ICML 2026*.
 
-- Additional ongoing submissions include two co-first-author papers, two second-author papers, and four corresponding-author papers under review at *ICML 2026*; one co-first-author paper and one second-author paper under review at *KDD 2026*; and one corresponding-author paper under review at *IJCAI 2026*.
