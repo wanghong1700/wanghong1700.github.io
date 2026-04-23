@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hong Wang 王泓"
 title_separator          : "-"
 name                     : &name "Hong Wang"
-description              : &description "personal description"
+description              : &description "Academic homepage of Hong Wang, a Ph.D. student at USTC working on AI for scientific computing, matrix computation acceleration, and large language models."
 url                      : https://wanghong1700.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wanghong1700/wanghong1700.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/wanghong1700"
+  github           : "wanghong1700"
   google_plus      :
   keybase          :
   instagram        :
