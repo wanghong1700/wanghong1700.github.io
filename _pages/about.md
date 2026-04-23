@@ -71,7 +71,7 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
 ### Large Language Models and Reinforcement Learning
 
 - **[Scheduling Your LLM Reinforcement Learning with Reasoning Trees](https://arxiv.org/abs/2510.24832)**  
-  Authors: **Hong Wang**, Zhezheng Hao, Jian Luo, Chenxing Wei, Yao Shu, Lei Liu, Qiang Lin, Hande Dong, Jiawei Chen.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Zhezheng Hao<sup>&#42;</sup>, Jian Luo, Chenxing Wei, Yao Shu, Lei Liu, Qiang Lin, Hande Dong, Jiawei Chen.  
   *ICLR 2026*, Tencent internship work.  
   [[arXiv]](https://arxiv.org/abs/2510.24832) [[code]](https://github.com/zz-haooo/Re-Schedule)
 

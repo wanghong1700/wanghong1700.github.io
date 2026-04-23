@@ -51,7 +51,7 @@ Awards
 Selected Publications
 ======
 - **Scheduling Your LLM Reinforcement Learning with Reasoning Trees**  
-  Authors: **Hong Wang**, Zhezheng Hao, Jian Luo, Chenxing Wei, Yao Shu, Lei Liu, Qiang Lin, Hande Dong, Jiawei Chen.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Zhezheng Hao<sup>&#42;</sup>, Jian Luo, Chenxing Wei, Yao Shu, Lei Liu, Qiang Lin, Hande Dong, Jiawei Chen.  
   *ICLR 2026*. [[arXiv]](https://arxiv.org/abs/2510.24832) [[code]](https://github.com/zz-haooo/Re-Schedule)
 - **Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective**  
   Authors: Zhezheng Hao<sup>&#42;</sup>, **Hong Wang**<sup>&#42;</sup>, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen.  
