@@ -116,7 +116,7 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
 ### AI for Scientific Computing
 
 - **[Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling](/publications/2024-02-01-Krylov-Subspace-Recycling)**  
-  Authors: **Hong Wang**<sup>&#42;</sup>, Zhongkai Hao<sup>&#42;</sup>, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Zhongkai Hao<sup>&#42;</sup>, Zijie Geng, Zhen Wang, Bin Li, Feng Wu.  
   *ICLR 2024 Spotlight*.  
   [[arXiv]](https://arxiv.org/abs/2401.09516) [[code]](https://github.com/wanghong1700/NO-DataGen-SKR)
 
@@ -132,7 +132,7 @@ Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=
   [[arXiv]](https://arxiv.org/abs/2510.24170) [[code]](https://github.com/Minghaom2/SymMaP)
 
 - **[STNet: Spectral Transformation Network for Solving Operator Eigenvalue Problem](/publications/2025-10-03-STNet)**  
-  Authors: **Hong Wang**<sup>&#42;</sup>, Jiang Yixuan<sup>&#42;</sup>, Jie Wang, Xinyi Li, Jian Luo, Huanshuo Dong.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Jiang Yixuan<sup>&#42;</sup>, Xinyi Li, Jian Luo, Huanshuo Dong.  
   *NeurIPS 2025*.  
   [[arXiv]](https://arxiv.org/abs/2510.23986) [[code]](https://github.com/j1y1x/STNet)
 
