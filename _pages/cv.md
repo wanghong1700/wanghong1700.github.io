@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A concise web CV is provided below. For the latest PDF version, please use [Download CV](/files/Hong_Wang_CV.pdf). You can also view [Lab Discussion Slides](/files/Hong_Wang_Presentation.pptx).
+A concise web CV is provided below. For the latest PDF version, please use [Download CV](/files/Hong_Wang_CV.pdf). You can also view [Research Slides](/files/Hong_Wang_Research_Slides.pptx) and [Lab Discussion Slides](/files/Hong_Wang_Presentation.pptx).
 
 Research Interests
 ======
@@ -52,12 +52,12 @@ Selected Publications
 ======
 - **Scheduling Your LLM Reinforcement Learning with Reasoning Trees**  
   Authors: **Hong Wang**, Zhezheng Hao, Jian Luo, Chenxing Wei, Yao Shu, Lei Liu, Qiang Lin, Hande Dong, Jiawei Chen.  
-  *ICLR 2026*. [[arXiv]](https://arxiv.org/abs/2510.24832)
+  *ICLR 2026*. [[arXiv]](https://arxiv.org/abs/2510.24832) [[code]](https://github.com/zz-haooo/Re-Schedule)
 - **Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective**  
-  Authors: Zhezheng Hao*, **Hong Wang***, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen.  
-  *ACL 2026 Oral*. [[arXiv]](https://arxiv.org/abs/2510.10150)
+  Authors: Zhezheng Hao<sup>*</sup>, **Hong Wang**<sup>*</sup>, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen.  
+  *ACL 2026 Oral*. [[arXiv]](https://arxiv.org/abs/2510.10150) [[code]](https://github.com/zz-haooo/STEER)
 - **Exploiting Edited Large Language Models as General Scientific Optimizers**  
-  Authors: Qitan Lv, Tianyu Liu, **Hong Wang**†.  
+  Authors: Qitan Lv, Tianyu Liu, **Hong Wang**<sup>†</sup>.  
   *NAACL 2025*. [[arXiv]](https://arxiv.org/abs/2503.09620)
 - **ReCreate: Reasoning and Creating Domain Agents Driven by Experience**  
   Authors: Zhezheng Hao, **Hong Wang**, Jian Luo, Jianqing Zhang, Yuyan Zhou, Qiang Lin, Can Wang, Hande Dong, Jiawei Chen.  
@@ -69,20 +69,26 @@ Selected Publications
   Authors: Qingyuan Liu, Jia-Chen Gu, Yunzhi Yao, **Hong Wang**, Nanyun Peng.  
   *ICLR 2026*. [[arXiv]](https://arxiv.org/abs/2510.01172) [[code]](https://github.com/PlusLabNLP/SPHERE)
 - **Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling**  
-  Authors: **Hong Wang***, Zhongkai Hao*, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu.  
-  *ICLR 2024 Spotlight*. [[arXiv]](https://arxiv.org/abs/2401.09516)
+  Authors: **Hong Wang**<sup>*</sup>, Zhongkai Hao<sup>*</sup>, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu.  
+  *ICLR 2024 Spotlight*. [[arXiv]](https://arxiv.org/abs/2401.09516) [[code]](https://github.com/wanghong1700/NO-DataGen-SKR)
 - **Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training**  
-  Authors: **Hong Wang***, Haiyang Xin*, Jie Wang, Xuanze Yang, Fei Zha, Huanshuo Dong, Yan Jiang.  
+  Authors: **Hong Wang**<sup>*</sup>, Haiyang Xin<sup>*</sup>, Jie Wang, Xuanze Yang, Fei Zha, Huanshuo Dong, Yan Jiang.  
   *NeurIPS 2025*. [[arXiv]](https://arxiv.org/abs/2510.25803) [[code]](https://github.com/haiyangxin/MoEPOT)
 - **SymMaP: Improving Computational Efficiency in Linear Solvers through Symbolic Preconditioning**  
   Authors: **Hong Wang**, Jie Wang, Minghao Ma, Haoran Shao, Haoyang Liu.  
   *NeurIPS 2025*. [[arXiv]](https://arxiv.org/abs/2510.24170) [[code]](https://github.com/Minghaom2/SymMaP)
 - **STNet: Spectral Transformation Network for Solving Operator Eigenvalue Problem**  
-  Authors: **Hong Wang***, Jiang Yixuan*, Jie Wang, Xinyi Li, Jian Luo, Huanshuo Dong.  
+  Authors: **Hong Wang**<sup>*</sup>, Jiang Yixuan<sup>*</sup>, Jie Wang, Xinyi Li, Jian Luo, Huanshuo Dong.  
   *NeurIPS 2025*. [[arXiv]](https://arxiv.org/abs/2510.23986) [[code]](https://github.com/j1y1x/STNet)
 - **Accelerating Eigenvalue Dataset Generation via Chebyshev Subspace Filter**  
   Authors: **Hong Wang**, Jie Wang, Jian Luo, Huanshuo Dong, Yeqiu Chen, Runmin Jiang, Zhen Huang.  
   *ICLR 2026*. [[arXiv]](https://arxiv.org/abs/2510.23215)
+- **HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction**  
+  Authors: Qin-Yi Zhang<sup>*</sup>, **Hong Wang**<sup>*</sup>, Siyao Liu, Haichuan Lin, Linying Cao, Xiao-Hu Zhou, Chen Chen, Shuangyi Wang, Zeng-Guang Hou.  
+  *AAAI 2026 Oral*. [[arXiv]](https://arxiv.org/abs/2601.09251) [[code]](https://github.com/Qin-Yi-Zhang/HGATSolver)
+- **Learning Neural Operators from Partial Observations via Latent Autoregressive Modeling**  
+  Authors: Jingren Hou<sup>*</sup>, **Hong Wang**<sup>*</sup>, Pengyu Xu, Chang Gao, Huafeng Liu, Liping Jing.  
+  *AAAI 2026*. [[arXiv]](https://arxiv.org/abs/2601.15547)
 - **Coordinate Transform Fourier Neural Operators for Symmetries in Physical Modelings**  
   Authors: Wenhan Gao, Ruichen Xu, **Hong Wang**, Yi Liu.  
   *TMLR 2025*. [[OpenReview]](https://openreview.net/forum?id=pMD7A77k3i) [[code]](https://github.com/wenhangao21/CTFNO)
