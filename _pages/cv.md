@@ -69,19 +69,20 @@ Selected Publications
   Authors: Qingyuan Liu, Jia-Chen Gu, Yunzhi Yao, **Hong Wang**, Nanyun Peng.  
   *ICLR 2026*. [[arXiv]](https://arxiv.org/abs/2510.01172) [[code]](https://github.com/PlusLabNLP/SPHERE)
 - **Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling**  
-  Authors: **Hong Wang**<sup>&#42;</sup>, Zhongkai Hao<sup>&#42;</sup>, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Zhongkai Hao<sup>&#42;</sup>, Zijie Geng, Zhen Wang, Bin Li, Feng Wu.  
   *ICLR 2024 Spotlight*. [[arXiv]](https://arxiv.org/abs/2401.09516) [[code]](https://github.com/wanghong1700/NO-DataGen-SKR)
 - **Mixture-of-Experts Operator Transformer for Large-Scale PDE Pre-Training**  
-  Authors: **Hong Wang**<sup>&#42;</sup>, Haiyang Xin<sup>&#42;</sup>, Jie Wang, Xuanze Yang, Fei Zha, Huanshuo Dong, Yan Jiang.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Haiyang Xin<sup>&#42;</sup>, Xuanze Yang, Fei Zha, Huanshuo Dong, Yan Jiang.  
+
   *NeurIPS 2025*. [[arXiv]](https://arxiv.org/abs/2510.25803) [[code]](https://github.com/haiyangxin/MoEPOT)
 - **SymMaP: Improving Computational Efficiency in Linear Solvers through Symbolic Preconditioning**  
-  Authors: **Hong Wang**, Jie Wang, Minghao Ma, Haoran Shao, Haoyang Liu.  
+  Authors: **Hong Wang**, Minghao Ma, Haoran Shao, Haoyang Liu.  
   *NeurIPS 2025*. [[arXiv]](https://arxiv.org/abs/2510.24170) [[code]](https://github.com/Minghaom2/SymMaP)
 - **STNet: Spectral Transformation Network for Solving Operator Eigenvalue Problem**  
-  Authors: **Hong Wang**<sup>&#42;</sup>, Jiang Yixuan<sup>&#42;</sup>, Jie Wang, Xinyi Li, Jian Luo, Huanshuo Dong.  
+  Authors: **Hong Wang**<sup>&#42;</sup>, Jiang Yixuan<sup>&#42;</sup>, Xinyi Li, Jian Luo, Huanshuo Dong.  
   *NeurIPS 2025*. [[arXiv]](https://arxiv.org/abs/2510.23986) [[code]](https://github.com/j1y1x/STNet)
 - **Accelerating Eigenvalue Dataset Generation via Chebyshev Subspace Filter**  
-  Authors: **Hong Wang**, Jie Wang, Jian Luo, Huanshuo Dong, Yeqiu Chen, Runmin Jiang, Zhen Huang.  
+  Authors: **Hong Wang**, Jian Luo, Huanshuo Dong, Yeqiu Chen, Runmin Jiang, Zhen Huang.  
   *ICLR 2026*. [[arXiv]](https://arxiv.org/abs/2510.23215)
 - **HGATSolver: A Heterogeneous Graph Attention Solver for Fluid-Structure Interaction**  
   Authors: Qin-Yi Zhang<sup>&#42;</sup>, **Hong Wang**<sup>&#42;</sup>, Siyao Liu, Haichuan Lin, Linying Cao, Xiao-Hu Zhou, Chen Chen, Shuangyi Wang, Zeng-Guang Hou.  

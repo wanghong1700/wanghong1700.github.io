@@ -8,7 +8,7 @@ venue: 'International Conference on Machine Learning (ICML)'
 location: ''
 paperurl: 'https://arxiv.org/pdf/2402.05957'
 arxiv: 'https://arxiv.org/abs/2402.05957'
-authors: 'Huanshuo Dong, Hong Wang, Haoyang Liu, Jian Luo, Jie Wang'
+authors: 'Huanshuo Dong, Hong Wang, Haoyang Liu, Jian Luo'
 citation: 'Huanshuo Dong, et al. &quot;Accelerating PDE Data Generation via Differential Operator Action in Solution Space.&quot; International Conference on Machine Learning (ICML), 2024.'
 ---
 
